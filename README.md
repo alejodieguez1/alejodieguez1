@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁Hi there! I'm Alejo, a Front-end developer<br>👓I'm currently working on my Fullstack Developer Career<br>🌱Learning TypeScript & Tailwind CSS with React<br>👯‍♂️Looking forward to working with new people and getting more experience<br>💥2023 Goals: Keep learning new technologies<br>😄Fun fact: I really love drinking water and riding my mountain bike
+😁Hi there! I'm Alejo, a Front-end developer<br>👓I'm currently working on my Fullstack Developer Career<br>🌱Learning Shopify Development using Liquid<br>👯‍♂️Looking forward to working with new people and getting more experience<br>💥2023 Goals: Keep learning new technologies<br>😄Fun fact: I really love drinking water and riding my mountain bike
 
 
 ## 🌐 Socials:
